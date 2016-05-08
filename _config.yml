@@ -39,6 +39,8 @@ prose:
               value: "pears"
             - name: "Mangos"
               value: "mangos"
+            - name: "Apples2"
+              value: "apples2"
     _posts/static:
       - name: "layout"
         field:
